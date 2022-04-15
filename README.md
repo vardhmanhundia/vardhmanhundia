@@ -1,7 +1,7 @@
 - 🔭 I’m currently a Full Stack Developer at Wisflux Tech Labs
-- 🌱 I’m currently learning https://www.figma.com/
+- 🌱 I’m currently learning <img alt="Figma" width="24px" src="https://shorturl.at/eiGHV" />, <img alt="GraphQL" width="24px" src="https://shorturl.at/tvwO0" />
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about #Backend technologies #Frontend technologies #Node #Python #UI-UX #Devops #JS #Go #React.js #Redux #AWS
+- 💬 Ask me about #Backend technologies #DevOps #Frontend technologies #Node #Python #UI-UX #Devops #JS #Go #React.js #Redux #AWS
 - 📫 How to reach me: [linkedIn](linkedin.com/in/vardhman-hundia)
 - 😄 Pronounce: वर्धमान
 <!-- - ⚡ Fun fact: Did you know how many total programming languages? – it’s 698 and still counting. -->
