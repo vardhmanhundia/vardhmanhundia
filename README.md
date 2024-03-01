@@ -1,4 +1,5 @@
-- 🔭 I’m currently a Senior Software Engineer at Wisflux Tech Labs
+- 🔭 I’m am currently doing my masters at Northwestern University
+- 🔭 I’m was a Project Manager and Senior Software Engineer at Wisflux Tech Labs
 - 🌱 I’m currently learning <img alt="Figma" width="24px" src="https://shorturl.at/eiGHV" />, microservices, AWS Certification Course
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about #Backend technologies #DevOps #Frontend technologies #Node #Python #UI-UX #Devops #JS #Go #React.js #Redux #AWS
